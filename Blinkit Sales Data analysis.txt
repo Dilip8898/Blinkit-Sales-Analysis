@@ -1,0 +1,20 @@
+🚀 I'm thrilled to share my latest project where I developed a comprehensive Power BI dashboard for Blinkit, a leading last-minute grocery delivery service in India. This dashboard provides valuable insights into various business metrics, helping stakeholders make data-driven decisions to optimize performance and enhance customer experience.
+
+🔍 𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝:
+
+• 𝐓𝐨𝐭𝐚𝐥 𝐒𝐚𝐥𝐞𝐬 𝐑𝐞𝐯𝐞𝐧𝐮𝐞: Achieved $1.20M in sales.
+• 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐑𝐚𝐭𝐢𝐧𝐠: Maintained a strong customer satisfaction with an average rating of 3.92.
+• 𝐓𝐨𝐭𝐚𝐥 𝐒𝐨𝐥𝐝 𝐈𝐭𝐞𝐦𝐬: Successfully sold 8,523 items within the specific time period.
+• 𝐑𝐞𝐯𝐞𝐧𝐮𝐞 𝐛𝐲 𝐎𝐮𝐭𝐥𝐞𝐭 𝐒𝐢𝐳𝐞: Analyzed sales distribution across different outlet sizes.
+• 𝐎𝐮𝐭𝐥𝐞𝐭 𝐄𝐬𝐭𝐚𝐛𝐥𝐢𝐬𝐡𝐦𝐞𝐧𝐭 𝐎𝐯𝐞𝐫 𝐭𝐡𝐞 𝐘𝐞𝐚𝐫𝐬: Tracked the number of outlets established annually.
+• 𝐒𝐚𝐥𝐞𝐬 𝐛𝐲 𝐈𝐭𝐞𝐦 𝐓𝐲𝐩𝐞: Detailed breakdown of sales across various product categories.
+• 𝐈𝐦𝐩𝐚𝐜𝐭 𝐨𝐟 𝐅𝐚𝐭 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐨𝐧 𝐒𝐚𝐥𝐞𝐬: Insights into customer preferences for low-fat and regular items.
+
+And also, the three interactive slicers allow users to dive deep into specific metrics, providing a in-depth view of the data. 
+
+👉 GitHub Repo: 
+
+hashtag#DataAnalytics
+hashtag#Blinkit
+hashtag#PowerBI
+hashtag#Dashboard
